@@ -12,5 +12,11 @@ build/
 # Directory created by dartdoc
 doc/api/
 
-# For IntelliJ
+# IntelliJ
+*.iml
+*.ipr
+*.iws
 .idea/
+
+# Mac
+.DS_Store
